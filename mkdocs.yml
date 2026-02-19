@@ -1,0 +1,4 @@
+site_name: Puckwiki
+site_url: https://wiki.puck.no
+theme:
+  name: material
