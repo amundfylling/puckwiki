@@ -35,6 +35,6 @@ sjuande kamp i åttandelsfinalen under Trondheim Open 12.11.2005.
 [Bergen Training League](Bergen_Training_League.md)
 
 [Minde Muthapuckers Training
-League](Minde_Muthapuckers_Training_League.md)
+League](Minde Muthapuckers Training League/Minde_Muthapuckers_Training_League.md)
 
 [Diverse](Diverse.md)
