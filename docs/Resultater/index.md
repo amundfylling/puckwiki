@@ -26,7 +26,7 @@ sjuande kamp i åttandelsfinalen under Trondheim Open 12.11.2005.
 
 [Tønsbergligaen](Tønsbergligaen.md)
 
-[Volda Open](Volda_Open.md)
+[Volda Open](Volda Open/Volda_Open.md)
 
 ### Uoffisielle turneringar
 
