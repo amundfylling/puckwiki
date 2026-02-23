@@ -1,3 +1,5 @@
+# Lover og regler
+
 [Grunnlover for Norges
 Bordhockeyallianse](Grunnlover_for_Norges_Bordhockeyallianse.md), vedtatt 1. mai 1996.
 

@@ -1,3 +1,5 @@
+# Bergensliga
+
 Bergensligaen (BL) er den offisielle bordhockeyligaen i Bergen, og
 samlar meir enn 10 spelarar kvar torsdagskveld på Studentsenteret i
 Bergen. Ligaen vart starta opp av Trond Selseng og Bjørn Hagerup Røken,

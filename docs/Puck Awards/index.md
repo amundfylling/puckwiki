@@ -1,3 +1,5 @@
+# Puck Awards
+
 Norges Bordhockeyallianse arrangerer hvert år Puck Awards under
 banketten i norgesmesterskapet (NM). Puck Awards er norsk bordhockeys
 idrettsgalla, og deltagerne i NM stemmer fram vinnerne (tidligere år

@@ -1,3 +1,5 @@
+# Resultater
+
 På denne sida finner du eit arkiv over bordhockeyresultat frå diverse
 turneringsseriar kringom i landet. Blad deg tilbake til 2004 og
 gjenoppleg [Bjørn Hagerup Røken](Bjørn_Hagerup_Røken.md) sine herjingar mot
