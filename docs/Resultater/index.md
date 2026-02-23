@@ -12,7 +12,7 @@ sjuande kamp i åttandelsfinalen under Trondheim Open 12.11.2005.
 
 ### Lokalligaer og andre nasjonale turneringar
 
-[Bergensligaen](Bergensligaen.md)
+[Bergensligaen](Bergensliga/)
 
 [Jærligaen](Jærligaen.md)
 
