@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Hovedside
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+På denne sida finner du norsk bordhockeys arkiv og leksikon. "Puckwikien" vert jamnleg oppdatert med nye og gamle resultat og nyttige artiklar.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* [Resultater](Resultater)
+* [Historie](Historie)
+* [Turneringsguide](Turneringsguide)
+* [Lover og regler](Lover og regler)
+* [Puck Awards](Puck Awards)

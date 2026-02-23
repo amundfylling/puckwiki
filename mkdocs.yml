@@ -2,3 +2,15 @@ site_name: Puckwiki
 site_url: https://wiki.puck.no
 theme:
   name: material
+  features:
+    - navigation.indexes # Makes clicking a folder open its index.md
+  palette:
+    primary: custom
+    accent: custom
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+  - awesome-pages # Automatically builds the navigation menu

@@ -1,0 +1,10 @@
+:root>* {
+    /* Mørkeblå (Hovedfarge for meny og store elementer) */
+    --md-primary-fg-color: #233469;
+
+    /* Rød (Aksentfarge for knapper og lenker) */
+    --md-accent-fg-color: #ff4344;
+
+    /* Gull/Gul (Kan brukes senere for egendefinerte bokser eller fremheving) */
+    --puck-gold: #f9c561;
+}
