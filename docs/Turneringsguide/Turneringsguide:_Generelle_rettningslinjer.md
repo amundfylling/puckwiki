@@ -144,5 +144,5 @@ bordhockeyturnering!
 
 Overskudd fra turneringer er NBAs viktigste inntektskilde. For gode råd
 om økonomistyring ved arrangering av turneringer, se
-[Økonomi i
-NBA](Økonomi_i_NBA.md).
+Økonomi i
+NBA.

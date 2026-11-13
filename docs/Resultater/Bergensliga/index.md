@@ -6,7 +6,7 @@ Bergen. Ligaen vart starta opp av Trond Selseng og Bjørn Hagerup Røken,
 som i fleire år var dominerande på toppen av resultatlistene. Den 5.
 september 2013 feira BL 10 års med ein jubileumsliga som vart vunne
 Verdsmeister Atis Silis framfor sylvvinnar frå
-[VM i Stavanger 2013](../VM_i_Stavanger_2013.md) Edgars Caics.
+VM i Stavanger 2013 Edgars Caics.
 
 ## Bergensligameisterskapen
 
@@ -3286,7 +3286,7 @@ width="1200" />
 <figcaption><em>Bergensligaen 2004-2005: Igjen var det trioen av
 etablerte spelarar som steig opp på pallen i Bergensligaen, denne gongen
 med Selseng på topp. Krinsmeisterskapen vart for fyrste gong arrangert
-denne sesongen [2005.02.12, KM Bergen 2005](../2005.02.12,_KM_Bergen_2005.md), med
+denne sesongen 2005.02.12, KM Bergen 2005, med
 heile 60 poeng til vinnaren (mot 30 i ordinære runder). I realiteten var
 det her Bergensligaen 2004-2005 vart avgjort, då Røken overraskande var
 slått ut i kvartfinalen mot forfattaren <a
@@ -3394,8 +3394,8 @@ Bergensliga Spring 2004 nr 14](2004.05.20,_Bergensliga_Spring_2004_nr_14.md) | [
 Bergensliga Spring 2004 nr 13](2004.05.12,_Bergensliga_Spring_2004_nr_13.md) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 9 |
 | [2004.05.05,
 Bergensliga Spring 2004 nr 12](2004.05.05,_Bergensliga_Spring_2004_nr_12.md) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 4 |
-| [2004.04.28,
-Bergensliga Spring 2004 nr 11 (manglar)](2004.04.28,_Bergensliga_Spring_2004_nr_11_(manglar).md) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 5 |
+| 2004.04.28,
+Bergensliga Spring 2004 nr 11 (manglar) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 5 |
 | [2004.04.21,
 Bergensliga Spring 2004 nr 10](2004.04.21,_Bergensliga_Spring_2004_nr_10.md) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 7 |
 | [2004.04.14, Bergensliga
@@ -3418,10 +3418,10 @@ Spring 2004 nr 2](2004.02.04,_Bergensliga_Spring_2004_nr_2.md) | [Bjorn Hagerup 
 Spring 2004 nr 1](2004.01.28,_Bergensliga_Spring_2004_nr_1.md) | [Bjorn Hagerup Roken](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220104) | 7 |
 | [2003.11.26,
 Bergensliga Autumn 2003 nr 10](2003.11.26,_Bergensliga_Autumn_2003_nr_10.md) | [Bjorn Hagerup Roken](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220104) | 7 |
-| [2003.11.19,
-Bergensliga Autumn 2003 nr 9 (manglar)](2003.11.19,_Bergensliga_Autumn_2003_nr_9_(manglar).md) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 3 |
-| [2003.11.12,
-Bergensliga Autumn 2003 nr 8 (manglar)](2003.11.12,_Bergensliga_Autumn_2003_nr_8_(manglar).md) | [Bjorn Hagerup Roken](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220104) | 4 |
+| 2003.11.19,
+Bergensliga Autumn 2003 nr 9 (manglar) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 3 |
+| 2003.11.12,
+Bergensliga Autumn 2003 nr 8 (manglar) | [Bjorn Hagerup Roken](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220104) | 4 |
 | [2003.10.23, Bergensliga
 Autumn 2003 nr 7](2003.10.23,_Bergensliga_Autumn_2003_nr_7.md) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 5 |
 | [2003.10.15, Bergensliga
@@ -3444,7 +3444,7 @@ Autumn 2003 nr 1](2003.09.10,_Bergensliga_Autumn_2003_nr_1.md) | [Daniel Remmem]
 Den fyrste store bordhockeyturneringa i Bergen vart arrangert på [Det
 Akademiske
 Kvarter](http://no.wikipedia.org/wiki/Det_Akademiske_Kvarter)\] i regi
-av [Norges Bordhockeyallianse](../Norges_Bordhockeyallianse.md) ved dei
+av Norges Bordhockeyallianse ved dei
 på det tidspunktet høgt rangerte spelarane [Tore
 Lie](http://stiga.trefik.cz/ithf/ranking/player.aspx?id=220169)\],
 [Espen

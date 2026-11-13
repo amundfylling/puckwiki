@@ -18,7 +18,7 @@ stoff, eller for den saks skyld – dersom økonomien tillater det – en
 šuplák.
 
 Instruksjoner for hvordan man lager målsokker av målkopper finnes på en
-[egen side](egen_side.md).
+egen side.
 
 ## Isoverflate
 

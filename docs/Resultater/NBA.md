@@ -15,7 +15,7 @@ tabellar og sluttspelresultat, og ikkje einskildresultat i gruppespel.
 |  |  |  |  |  |
 |----|----|----|----|----|
 | Dato | Turnering | Stad | Vinnar | Deltakarar |
-| 2015-04-11 | **[Norwegian Championships 2015](Norwegian_Championships_2015.md)** | Bergen | [Yngve Aasheim](http://ithf.info/stiga/ithf/ranking/player.aspx?id=650862) | 50 |
+| 2015-04-11 | **Norwegian Championships 2015** | Bergen | [Yngve Aasheim](http://ithf.info/stiga/ithf/ranking/player.aspx?id=650862) | 50 |
 | 2015-03-07 | **[Kvernaland Open 2015](Kvernaland Open/Kvernaland_Open_2015.md)** | Kvernaland | [Stian Lode](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220172) | 24 |
 | 2015-01-24 | **[Lambertseter Open 2015](Lambertseter Open/Lambertseter_Open_2015.md)** | Oslo | [Yngve Aasheim](http://ithf.info/stiga/ithf/ranking/player.aspx?id=650862) | 25 |
 | 2014-11-22 | **[Trondheim Open 2014](Trondheim Open/Trondheim_Open_2014.md)** | Trondheim | [Andreas Roren](http://ithf.info/stiga/ithf/ranking/player.aspx?id=650862) | 14 |
@@ -40,11 +40,11 @@ Sesong 2013-2014
 |  |  |  |  |  |
 |----|----|----|----|----|
 | Dato | Turnering | Stad | Vinnar | Deltakarar |
-| 2013-04-07 | **[Norwegian Championships 2013](Norwegian_Championships_2013.md)** | Oslo | [Yngve Aasheim](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220035) | 50 |
+| 2013-04-07 | **Norwegian Championships 2013** | Oslo | [Yngve Aasheim](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220035) | 50 |
 | 2013-03-02 | **[Bergen Open 2013](Bergen Open/Bergen_Open_2013.md)** | Bergen | [Bjarne Axelsen](http://ithf.info/stiga/ithf/ranking/player.aspx?id=80004) | 38 |
 | 2013-01-19 | **[Jaren
 Open 2013](Jæren Open/Jaren_Open_2013.md)** | Kvernaland | [Espen Moe](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220180) | 39 |
-| 2012-11-10 | **[Trondheim Open 2012](Trondheim_Open_2012.md)** | Trondheim | [Andreas Roren](http://ithf.info/stiga/ithf/ranking/player.aspx?id=650862) | 11 |
+| 2012-11-10 | **Trondheim Open 2012** | Trondheim | [Andreas Roren](http://ithf.info/stiga/ithf/ranking/player.aspx?id=650862) | 11 |
 | 2012-10-06 | **[Lambertseter Open 2012/13](Lambertseter Open/Lambertseter_Open_2012_13.md)** | Oslo | [Daniel Remmem](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220213) | 20 |
 | 2012-09-08 | **[Norway Open 2012](Norway Open/Norway_Open_2012.md)** | Bergen | [Matiss Saulitis](http://ithf.info/stiga/ithf/ranking/player.aspx?id=200243) | 58 |
 
@@ -97,9 +97,9 @@ Sesong 2009-2010
 | 2009-05-02 | **[Jaren
 Open 2009](Jæren Open/Jaren_Open_2009.md)** | Kvernaland | [Geir Hjemas](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220370) | 23 |
 | 2009-03-29 | **[Norwegian Championships 2009](Norwegian Championships/Norwegian_Championships_2009.md)** | Trondheim | [Yngve Aasheim](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220035) | 43 |
-| 2009-02-28 | **[Bergen Open 2008/09 #2](Bergen_Open_2008/09_#2.md)** | Bergen | [Yngve Aasheim](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220035) | 25 |
+| 2009-02-28 | **Bergen Open 2008/09 #2** | Bergen | [Yngve Aasheim](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220035) | 25 |
 | 2009-01-31 | **[Lambertseter Open 2009](Lambertseter Open/Lambertseter_Open_2009.md)** | Oslo | [Ingebret Risa](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220216) | 25 |
-| 2008-11-29 | **[Bergen Open 2008/09 #1](Bergen_Open_2008/09_#1.md)** | Bergen | [Trygve Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220170) | 22 |
+| 2008-11-29 | **Bergen Open 2008/09 #1** | Bergen | [Trygve Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220170) | 22 |
 | 2008-09-27 | **[Oslo
 Open 2008](Oslo Open/Oslo_Open_2008.md)** | Oslo | [Pontus Eriksson](http://ithf.info/stiga/ithf/ranking/player.aspx?id=280133) | 42 |
 | 2008-08-30 | **[Trondheim Open 2008](Trondheim Open/Trondheim_Open_2008.md)** | Trondheim | [Yngve Aasheim](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220035) | 9 |
@@ -175,7 +175,7 @@ Sesong 2004-2005
 |  |  |  |  |  |
 |----|----|----|----|----|
 | Dato | Turnering | Stad | Vinnar | Deltakarar |
-| 2004-04-25 | [Goteborgs GP 2004](Goteborgs_GP_2004.md) | Goteborg | [David Nordstrom](http://ithf.info/stiga/ithf/ranking/player.aspx?id=280375) | 56 |
+| 2004-04-25 | Goteborgs GP 2004 | Goteborg | [David Nordstrom](http://ithf.info/stiga/ithf/ranking/player.aspx?id=280375) | 56 |
 | 2004-04-01 | **[Risvollan Open 2004](Andre/Risvollan_Open_2004.md)** | Trondheim | [Oyvind Hansen](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220114) | 32 |
 | 2004-03-01 | **[Sandnes Open 2004](Sandnes Open/Sandnes_Open_2004.md)** | Sandnes | [Jarle Eide](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220077) | 27 |
 | 2004-02-01 | **[Norwegian Championships 2004](Norwegian Championships/Norwegian_Championships_2004.md)** | Horten | [Jarle Eide](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220077) | 58 |
@@ -287,32 +287,32 @@ Sesong 1997-1998
 |  |  |  |  |  |
 |----|----|----|----|----|
 | Dato | Turnering | Stad | Vinnar | Deltakarar |
-| 1997-05-01 | [Norwegian Stanley Cup 1997](Norwegian_Stanley_Cup_1997.md) | Oslo | [Tore Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220169) | 20 |
-| 1997-04-01 | [Oslo
-Open 1997](Oslo_Open_1997.md) | Oslo | [Tore Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220169) | 17 |
-| 1997-03-01 | [VeGre Svarstad 1997](VeGre_Svarstad_1997.md) | Svarstad | [Tommy Rensmoen](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220292) | 16 |
-| 1997-02-01 | [Norwegian Championships 1997](Norwegian_Championships_1997.md) | Oslo | [Tore Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220169) | 57 |
-| 1996-12-01 | [Trondheim Open 1996](Trondheim_Open_1996.md) | Trondheim | [Tore Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220169) | 17 |
-| 1996-10-01 | [Copa Lorenskog 1996](Copa_Lorenskog_1996.md) | Lorenskog | [Daniel Wallen](http://ithf.info/stiga/ithf/ranking/player.aspx?id=280518) | 21 |
+| 1997-05-01 | Norwegian Stanley Cup 1997 | Oslo | [Tore Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220169) | 20 |
+| 1997-04-01 | Oslo
+Open 1997 | Oslo | [Tore Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220169) | 17 |
+| 1997-03-01 | VeGre Svarstad 1997 | Svarstad | [Tommy Rensmoen](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220292) | 16 |
+| 1997-02-01 | Norwegian Championships 1997 | Oslo | [Tore Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220169) | 57 |
+| 1996-12-01 | Trondheim Open 1996 | Trondheim | [Tore Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220169) | 17 |
+| 1996-10-01 | Copa Lorenskog 1996 | Lorenskog | [Daniel Wallen](http://ithf.info/stiga/ithf/ranking/player.aspx?id=280518) | 21 |
 
 Sesong 1996-1997
 
 |  |  |  |  |  |
 |----|----|----|----|----|
 | Dato | Turnering | Stad | Vinnar | Deltakarar |
-| 1996-04-01 | [Norwegian Championships 1996](Norwegian_Championships_1996.md) | Oslo | [Tore Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220169) | 30 |
-| 1996-01-01 | [Lorenskog Open 1996](Lorenskog_Open_1996.md) | Lorenskog | [Tore Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220169) | 20 |
-| 1995-12-01 | [Kusletta Open 1995](Kusletta_Open_1995.md) | Kusletta | [Tommy Rensmoen](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220292) | 15 |
-| 1995-11-01 | [Trondheim Open 1995](Trondheim_Open_1995.md) | Trondheim | [Tommy Rensmoen](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220292) | 18 |
+| 1996-04-01 | Norwegian Championships 1996 | Oslo | [Tore Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220169) | 30 |
+| 1996-01-01 | Lorenskog Open 1996 | Lorenskog | [Tore Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220169) | 20 |
+| 1995-12-01 | Kusletta Open 1995 | Kusletta | [Tommy Rensmoen](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220292) | 15 |
+| 1995-11-01 | Trondheim Open 1995 | Trondheim | [Tommy Rensmoen](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220292) | 18 |
 
 Sesong 1995-1996
 
 |  |  |  |  |  |
 |----|----|----|----|----|
 | Dato | Turnering | Stad | Vinnar | Deltakarar |
-| 1995-11-01 | [Norwegian Championships 1995](Norwegian_Championships_1995.md) | Oslo | [Tore Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220169) | 33 |
-| 1995-01-01 | [Lorenskog Open 1995](Lorenskog_Open_1995.md) | Lorenskog | [Tore Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220169) | 16 |
-| 1994-11-01 | [Lorenskog Open 1994](Lorenskog_Open_1994.md) | Lorenskog | [Stig Ihle](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220295) | 24 |
+| 1995-11-01 | Norwegian Championships 1995 | Oslo | [Tore Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220169) | 33 |
+| 1995-01-01 | Lorenskog Open 1995 | Lorenskog | [Tore Lie](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220169) | 16 |
+| 1994-11-01 | Lorenskog Open 1994 | Lorenskog | [Stig Ihle](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220295) | 24 |
 
 Sesong 1994-1995
 
@@ -462,4 +462,4 @@ rekorden på 32 samanhengande turneringsoppmøte:
 
 Deltakarstatistikk for NBA (spelarar med 10 deltakingar eller meir).
 Oppdatert 2023-05-30 (fram til og med
-**[Norwegian Championships 2023](Norwegian_Championships_2023.md)**).
+**Norwegian Championships 2023**).
