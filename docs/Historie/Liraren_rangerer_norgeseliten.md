@@ -20,7 +20,10 @@ rangeres. SPJASS har etter beste evne forsøkt å oversette alle disse
 stygge svenske bokstavene: den rare a-en settes til e, o med to prikker
 over settes til ø. Sifferene i parantes angir medaljer i norske
 rankingturneringer (pr tidlig vinter '97).
-[thumb|250px|Daniel Wallen](Fil:d_w_oo98.jpg.md)
+![Daniel Wallen](../images/D_w_oo98.jpg)
+*Daniel Wallen*
+
+
 
 \<\<LIRAREN\>\> RANKAR DE BESTA NORRMENNEN (vinter 1997)
 Artikkelforfatter Daniel Wallen
@@ -52,8 +55,10 @@ statistiken att Stig vann NM 1994 och något annat finns inte att lesa.
 -Jag minns inte hur han ser ut trots att vi møttes i finalen i Copa
 Lørenskog. Førmodligen veldigt trevlig, men jag kommer bara inte ihåg,
 seger VM-tvåan Daniel Wallen.
-[thumb|250px|Klostergata...
-ett beryktad bordshockeykollektiv i Trondheim...](Fil:klosterg.jpg.md)
+![Klostergata... ett beryktad bordshockeykollektiv i Trondheim...](../images/Klosterg.jpg)
+*Klostergata... ett beryktad bordshockeykollektiv i Trondheim...*
+
+
 
 **Espen Selbæk (0 - 1 - 0)** Har verldens tvivselutan besta rockad, men
 undviker in i det lengsta att gøra inspel. Och om det verkligen kommer

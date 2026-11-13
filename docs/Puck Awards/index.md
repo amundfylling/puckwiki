@@ -2915,7 +2915,7 @@ brødrene kunne lett blitt tiltalt for massemord da alle som var vitne
 til utdelingen holdt på å le seg i hjel. I stede kan vi trygt si at
 brødrene forlenget livet til en lykkelig gjeng bordhockeyspillere.
 
-[thumb|200px](Fil:brothers.jpg.md)
+
 
 Frode og Bjørn skulle dele ut årets sjokkpuck og hva er da mer naturlig
 enn å sjokkere. En hysterisk morsom prisutdeling, som ville satt kaffen

@@ -14,9 +14,7 @@ innbydelser ble sendt ut, og jungeltelegrafen gikk for fullt. Flexible
 Flyers (oppkalt etter en låt fra det amerikanske rockebandet Hüsker Du)
 mot Smegma Oilers! Århundredets oppgjør!!
 
-[thumb|250px|left|Pionerene
-i Flexible Flyers! Fra venstre: Espen Selbæk, Pål Martinussen og Nils
-Stensrud.](Fil:flexfly.jpg.md)
+*Pionerene i Flexible Flyers! Fra venstre: Espen Selbæk, Pål Martinussen og Nils Stensrud.*
 
 Arenaen ble bestemt å være det vindskeive gamle huset i Klostergata i
 Trondheim. Alle møbler ble tatt ut fra den avlange stua over
@@ -35,8 +33,7 @@ rase ned i etasjen under og lande på blomstene til Blomsterbutikken?
 Kassene med øl ble fort utsolgt. Tilslutt måtte man tilby andre
 godsaker. 'Kaffe: kr 10,- Bare Kaffe: kr 5,-' Etnisk!
 
-[thumb|250px|left|Noen
-av Smegma Oilers trofaste tilhengere... litt spake før start!](Fil:kgt_tri2.jpg.md)
+*Noen av Smegma Oilers trofaste tilhengere... litt spake før start!*
 
 Lagenes spillere var ekstremt nervøse før det brakte løs, og forsøkte å
 psyke hverandre ut, med skumle blikk og uforståelige oppvarmingsfinter
@@ -83,10 +80,8 @@ god drikke til slitne spillere og fans. Bookmakeren vandrer rundt og tar
 innsatsen før hvert enkelt spill. Det satses, men den store utbetalingen
 lar vente på seg.
 
-[thumb|250px|left|Mye
-ståhei fra Flexible Flyers tilhengere!](Fil:kgt_tri3.jpg.md)
-[thumb|250px|right|Publikum
-følger spent med...](Fil:kgt_pub1.jpg.md)
+*Mye ståhei fra Flexible Flyers tilhengere!*
+*Publikum følger spent med...*
 
 Det er "Flexible Flyers" som styrer de nymalte TIK-figurene i sort, og
 som skal forsvare Trondheims ry i dette mesterskapet. "Smegma Oilers"
@@ -104,11 +99,10 @@ overføring.\
 \
 \
 \
-**- Prikkedøden** [thumb|right|250px|Det
-var her det hele startet, i 2. etasje i Klostergata 32, Trondheim. Et
-viktig sted når den trønderske bordhockeykrønike en gang skal skrives.
-Bildet er tatt i 1995 (eller noe sånt), etter kollektivet flyttet ut,
-før huset ble totalrenovert.](Fil:klosterg.jpg.md) - Porselen, porselen, porselen, og
+**- Prikkedøden** ![Det var her det hele startet, i 2. etasje i Klostergata 32, Trondheim. Et viktig sted når den trønderske bordhockeykrønike en gang skal skrives. Bildet er tatt i 1995 (eller noe sånt), etter kollektivet flyttet ut, før huset ble totalrenovert.](../images/Klosterg.jpg)
+*Det var her det hele startet, i 2. etasje i Klostergata 32, Trondheim. Et viktig sted når den trønderske bordhockeykrønike en gang skal skrives. Bildet er tatt i 1995 (eller noe sånt), etter kollektivet flyttet ut, før huset ble totalrenovert.*
+
+ - Porselen, porselen, porselen, og
 prikkedøden, prikkedøden huier Sovjets fans. Den som skal være med på
 leken må tåle steken! Brettet snues, og reperasjonen settes i gang med
 en kollektiv effektivitet lik et depotlag i Monaco Grand Prix. Etter mye

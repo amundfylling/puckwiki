@@ -13,7 +13,7 @@ klubben hadde sin månedlige turnering.
 
 ## Bordhockey - sveklingenes hevn over rulsebiffene
 
-[thumb|300px|right|](Fil:sig_sp_l.jpg.md) TBHKs Sigbjørn
+![](../images/Sig_sp_l.jpg) TBHKs Sigbjørn
 Strømsnes, sølvmedaljør fra lag-NM'96 Det er ikke bare i Norge man har
 fattet interesse for denne tilynelatende snevre sporten. Over hele den
 nordlige halvkule sitter folk og finsliper tricks de skal bruke under

@@ -9,8 +9,10 @@ upubliserte.)
 virkeligheten. Det var duket for Trondheim Open og Espen hadde lurt oss
 med. Nå skulle vi teste våre kunster på brettet mot de beste i Norge.
 
-[thumb|Spifferne
-sikla fælt på premiebordet...](Fil:pr_to_97.jpg.md) Da vi våknet opp i sengene den 13.
+![Spifferne sikla fælt på premiebordet...](../../images/Pr_to_97.jpg)
+*Spifferne sikla fælt på premiebordet...*
+
+ Da vi våknet opp i sengene den 13.
 desember var vi alle på desperat jakt etter skumle symptomer. Aller
 helst ønsket vi oss ordentlig feber og stive skuldre, men litt vondt i
 hode ville også vært kjærkomment. Det sto skrevet Trondheim Open på
@@ -29,8 +31,7 @@ De var store fryktinngytende og født med hockeybrett på beina: «SE ! De
 har på seg ordentlige hockey trøyer» «Dæven dutte, de er sikkert dritt
 bra, kom så stikker vi».
 
-[thumb|left|Lars
-E Waagard og Dr Nilsen fra Terra Spiff](Fil:t_s_l_o_.jpg.md) Frykten viste seg å være helt
+*Lars E Waagard og Dr Nilsen fra Terra Spiff* Frykten viste seg å være helt
 ubegrunnet. Ikke fordi de ikke var gode, bevare meg vel, men fordi vi
 ble meget godt mottatt. På innsiden av disse hockey fantomene fant vi
 likesinnede og sympatiske mennesker. Akkurat som oss var også de naive
@@ -49,8 +50,7 @@ ingen rolle om de derre back- center greiene hadde vært lov eller ikke.
 For den saks skyld hadde det vel heller ikke spilt noen rolle om vi
 hadde våknet opp med en eller to armer. Her var det juling i vente.
 
-[thumb|Nypolerte spill på
-Trondheim Open](Fil:t_open97.jpg.md) «Hva gjør vi nå?» medlemmene i Terra Spiff satt seg
+*Nypolerte spill på Trondheim Open* «Hva gjør vi nå?» medlemmene i Terra Spiff satt seg
 ned og diskuterte nye taktikker for Trondheim Open. Et forslag gikk ut
 på å legge alle mann i forsvar og kontre inn mål. Vi kunne jo legge om
 til en slags 4 - 1 formasjon med den beste spilleren alene på topp.
@@ -65,9 +65,10 @@ logiske utsagnet dannet utgangspunktet for vår nye taktikk. Vi endte opp
 med en slags «skyt pucken i mål» taktikk som gikk ut på å skyte pucken i
 mål !
 
-[thumb|En
-stolt Dr Nilsen med sin første bøtte i bordhockey og ManU-drakt fra
-1973](Fil:d_n_to97.jpg.md) Men Perry gav ikke opp. Han så et lys i enden av tunnelen. Det
+![En stolt Dr Nilsen med sin første bøtte i bordhockey og ManU-drakt fra 1973](../../images/D_n_to97.jpg)
+*En stolt Dr Nilsen med sin første bøtte i bordhockey og ManU-drakt fra 1973*
+
+ Men Perry gav ikke opp. Han så et lys i enden av tunnelen. Det
 var enda 10 minutter igjen til turneringen skulle starte, og med litt
 flaks fikk han walk - over i første runde. Dette ville gi han hele 15
 minutter til å øve inn en center finte eller to. Perry fant et ledig

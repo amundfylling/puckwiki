@@ -15,7 +15,7 @@ nettopp Kung Fu Girls ekstra hardt til sitt bryst. Dette er legenden om
 Kung Fu Girls, fortalt av én som var der - og husker det meste. Sånn
 omtrentlig.
 
-[350px|thumb|](Fil:kfg_cov2.jpg.md) Det hele begynte våren 1993.
+ Det hele begynte våren 1993.
 Scenen er i all hovedsak Studentersamfundet i Trondhjem (heretter
 Samfundet), samt huset på andre siden av Elgeseter gate, Klostergata
 32A. På dette tidspunkt bodde Espen Selbæk, Reidar Sliper, Jon Anders
@@ -96,7 +96,7 @@ Espen, som imidlertid avslo med henvisning til at det ville være fåfengt
 å i det hele tatt prøve å gjenskape magien fra den uforglemmelige
 vårkvelden. Et fornuftig standpunkt.
 
-[500px|thumb|](Fil:kfg_vant.jpg.md) **Epilog II:** Vi vet ikke hva som
+![](../images/Kfg_vant.jpg) **Epilog II:** Vi vet ikke hva som
 skjedde mellom Kung Fu Girls og plateselskapet Sony (1:70), men de fikk
 i alle fall ikke fornyet kontrakt. Likevel dukket de atter opp på
 Samfundet våren 1995 for å promotere sitt selvfinansierte andrealbum.

@@ -1,4 +1,4 @@
-[Fil:Turnering_brett.gif](Fil:Turnering_brett.gif.md)
+*Fil:Turnering_brett.gif*
 
 Vellagde målsokker, litt støvtørking og små mengder kjemikalier på de
 riktige stedene – samt godt vedlikehold – er alt som skal til for at
@@ -114,7 +114,10 @@ Ved behov, følg prosedyrer for nye spill. Ved behov, fjern også skitt
 fra tannhjulene med f.eks. en tannbørste, og skitt i sporene med en
 klut.
 
-[Fil:Turnering_silikon_nei.gif](Fil:Turnering_silikon_nei.gif.md) [Fil:Turnering_silikon_ja.gif](Fil:Turnering_silikon_ja.gif.md)
+![Fil:Turnering_silikon_nei.gif](../images/Turnering_silikon_nei.gif)
+*Fil:Turnering_silikon_nei.gif*
+
+ *Fil:Turnering_silikon_ja.gif*
 
 Påfør silikon ved hjelp av det lille, tynne røret som følger med boksen.
 Vær lett på avtrykkerfingeren.

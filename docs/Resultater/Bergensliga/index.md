@@ -2345,7 +2345,7 @@ Autumn 2014 nr 5](2014.09.18,_Bergensliga_Autumn_2014_nr_5.md) | [Hans Christian
 | [2014.09.11, Bergensliga
 Autumn 2014 nr 4](2014.09.11,_Bergensliga_Autumn_2014_nr_4.md) | [Espen Eidsnes](http://ithf.info/stiga/ithf/ranking/player.aspx?id=656831) | 11 |
 | [2014.09.06,
-Bergen Championships Autumn 2014 Students](../2014.09.06,_Bergen_Championships_Autumn_2014_Students.md) | [Hans Christian Lonne](http://ithf.info/stiga/ithf/ranking/player.aspx?id=657858) | 14 |
+Bergen Championships Autumn 2014 Students](../Bergen Championships/2014.09.06,_Bergen_Championships_Autumn_2014_Students.md) | [Hans Christian Lonne](http://ithf.info/stiga/ithf/ranking/player.aspx?id=657858) | 14 |
 | **[2014.09.04, Bergensliga
 Autumn 2014 nr 3](2014.09.04,_Bergensliga_Autumn_2014_nr_3.md)** | [Arne Johannes Holmin](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220135) | 11 |
 | [2014.08.28, Bergensliga
@@ -2366,7 +2366,7 @@ width="1200" />
 |  |  |  |
 |----|----|----|
 | Dato, Runde | Vinnar | Deltakarar |
-| [2014.06.32, KM Bergen 2014](../2014.06.32,_KM_Bergen_2014.md) | [Hans Christian Lonne](http://ithf.info/stiga/ithf/ranking/player.aspx?id=657858) | 7 |
+| [2014.06.32, KM Bergen 2014](../KM Bergen/2014.06.32,_KM_Bergen_2014.md) | [Hans Christian Lonne](http://ithf.info/stiga/ithf/ranking/player.aspx?id=657858) | 7 |
 | [2014.06.12,
 Bergensliga Spring 2014 nr 22](2014.06.12,_Bergensliga_Spring_2014_nr_22.md) | [Arne Johannes Holmin](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220135) | 10 |
 | **[2014.06.05,
@@ -2534,7 +2534,7 @@ width="1200" />
 | [2012.12.13,
 Bergensliga Autumn 2012 nr 18](2012.12.13,_Bergensliga_Autumn_2012_nr_18.md) | [Arne Johannes Holmin](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220135) | 13 |
 | [2012.12.08,
-Bergen Championships Autumn 2012 Students](../2012.12.08,_Bergen_Championships_Autumn_2012_Students.md) | [Trond Gangsoy](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220094) | 11 |
+Bergen Championships Autumn 2012 Students](../Bergen Championships/2012.12.08,_Bergen_Championships_Autumn_2012_Students.md) | [Trond Gangsoy](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220094) | 11 |
 | **[2012.12.06,
 Bergensliga Autumn 2012 nr 17](2012.12.06,_Bergensliga_Autumn_2012_nr_17.md)** | [Anne Grethe Gangsoy](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220636) | 14 |
 | [2012.11.29,
@@ -2606,7 +2606,7 @@ Bergensliga Spring 2012 nr 13](2012.03.29,_Bergensliga_Spring_2012_nr_13.md) | [
 | [2012.03.22,
 Bergensliga Spring 2012 nr 12](2012.03.22,_Bergensliga_Spring_2012_nr_12.md) | [Trond Gangsoy](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220094) | 16 |
 | [2012.03.17,
-Bergen Championships Spring 2012 Students](../2012.03.17,_Bergen_Championships_Spring_2012_Students.md) | [Anne Grethe Gangsoy](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220636) | 13 |
+Bergen Championships Spring 2012 Students](../Bergen Championships/2012.03.17,_Bergen_Championships_Spring_2012_Students.md) | [Anne Grethe Gangsoy](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220636) | 13 |
 | [2012.03.15,
 Bergensliga Spring 2012 nr 11](2012.03.15,_Bergensliga_Spring_2012_nr_11.md) | [Anne Grethe Gangsoy](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220636) | 12 |
 | [2012.03.08,
@@ -2648,7 +2648,7 @@ Bergensliga Autumn 2011 nr 18](2011.12.08,_Bergensliga_Autumn_2011_nr_18.md) | [
 | [2011.12.01,
 Bergensliga Autumn 2011 nr 17](2011.12.01,_Bergensliga_Autumn_2011_nr_17.md) | [Arne Johannes Holmin](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220135) | 8 |
 | [2011.11.26,
-Bergen Championships Autumn 2011 Students](../2011.11.26,_Bergen_Championships_Autumn_2011_Students.md) | [Arne Johannes Holmin](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220135) | 18 |
+Bergen Championships Autumn 2011 Students](../Bergen Championships/2011.11.26,_Bergen_Championships_Autumn_2011_Students.md) | [Arne Johannes Holmin](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220135) | 18 |
 | [2011.11.24,
 Bergensliga Autumn 2011 nr 16](2011.11.24,_Bergensliga_Autumn_2011_nr_16.md) | [Arne Johannes Holmin](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220135) | 17 |
 | [2011.11.17,
@@ -2725,7 +2725,7 @@ Bergensliga Spring 2011 nr 12](2011.04.07,_Bergensliga_Spring_2011_nr_12.md) | [
 | [2011.03.31,
 Bergensliga Spring 2011 nr 11](2011.03.31,_Bergensliga_Spring_2011_nr_11.md) | [Anne Grethe Gangsoy](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220636) | 6 |
 | [2011.03.24,
-Bergen Championships Spring 2011 Students](../2011.03.24,_Bergen_Championships_Spring_2011_Students.md) | [Arne Johannes Holmin](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220135) | 23 |
+Bergen Championships Spring 2011 Students](../Bergen Championships/2011.03.24,_Bergen_Championships_Spring_2011_Students.md) | [Arne Johannes Holmin](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220135) | 23 |
 | [2011.03.17,
 Bergensliga Spring 2011 nr 10](2011.03.17,_Bergensliga_Spring_2011_nr_10.md) | [Arne Johannes Holmin](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220135) | 7 |
 | [2011.03.10,
@@ -2812,7 +2812,7 @@ stil sin femte halvsesong på rad, med Trond Ove Gangsøy på ein nesten
 like suveren sylvplass, og den tilbakevendte legenda Røken som
 bronsevinnar framføre Anne Grethe Gangsøy. Grunna den ekstremt labre
 bordhockeyinteressa vart det berre gjennomført 8 ligarunder denne våren,
-der den eine av desse var den gjenoppstarta [Studentmeisterskapen](../2010.03.25,_Bergen_Championships_Spring_2010_Students.md).</em></figcaption>
+der den eine av desse var den gjenoppstarta [Studentmeisterskapen](../Bergen Championships/2010.03.25,_Bergen_Championships_Spring_2010_Students.md).</em></figcaption>
 </figure>
 
 |  |  |  |
@@ -2821,7 +2821,7 @@ der den eine av desse var den gjenoppstarta [Studentmeisterskapen](../2010.03.25
 | [2010.04.06, Bergensliga
 Spring 2010 nr 7](2010.04.06,_Bergensliga_Spring_2010_nr_7.md) | [Stian Ostrem "Power Gym"](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220017) | 5 |
 | [2010.03.25,
-Bergen Championships Spring 2010 Students](../2010.03.25,_Bergen_Championships_Spring_2010_Students.md) | [Stian Ostrem "Power Gym"](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220017) | 19 |
+Bergen Championships Spring 2010 Students](../Bergen Championships/2010.03.25,_Bergen_Championships_Spring_2010_Students.md) | [Stian Ostrem "Power Gym"](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220017) | 19 |
 | [2010.03.23, Bergensliga
 Spring 2010 nr 6](2010.03.23,_Bergensliga_Spring_2010_nr_6.md) | [Bjorn Hagerup Roken](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220104) | 4 |
 | [2010.03.09, Bergensliga
@@ -2918,7 +2918,7 @@ Bergensliga Spring 2009 nr 12](2009.04.29,_Bergensliga_Spring_2009_nr_12.md) | [
 Bergensliga Spring 2009 nr 11](2009.04.22,_Bergensliga_Spring_2009_nr_11.md) | [Trond Gangsoy](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220094) | 5 |
 | [2009.04.01,
 Bergensliga Spring 2009 nr 10](2009.04.01,_Bergensliga_Spring_2009_nr_10.md) | [Ewoud van Veen](http://ithf.info/stiga/ithf/ranking/player.aspx?id=210001) | 4 |
-| [2009.03.14, KM Bergen 2009](../2009.03.14,_KM_Bergen_2009.md) | [Stian Ostrem "Power Gym"](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220017) | 13 |
+| [2009.03.14, KM Bergen 2009](../KM Bergen/2009.03.14,_KM_Bergen_2009.md) | [Stian Ostrem "Power Gym"](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220017) | 13 |
 | [2009.03.11, Bergensliga
 Spring 2009 nr 9](2009.03.11,_Bergensliga_Spring_2009_nr_9.md) | [Trond Gangsoy](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220094) | 6 |
 | [2009.03.04,
@@ -3034,7 +3034,7 @@ Spring 2008 nr 7](2008.02.20,_Bergensliga_Spring_2008_nr_7.md) | [Stian Ostrem "
 Spring 2008 nr 6](2008.02.13,_Bergensliga_Spring_2008_nr_6.md) | [Arne Johannes Holmin](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220135) | 12 |
 | [2008.02.06, Bergensliga
 Spring 2008 nr 5](2008.02.06,_Bergensliga_Spring_2008_nr_5.md) | [Jon Andreas Hestad](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220128) | 5 |
-| [2008.02.02, KM Bergen 2008](../2008.02.02,_KM_Bergen_2008.md) | [Svein Olav Humberset](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220139) | 11 |
+| [2008.02.02, KM Bergen 2008](../KM Bergen/2008.02.02,_KM_Bergen_2008.md) | [Svein Olav Humberset](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220139) | 11 |
 | [2008.01.30, Bergensliga
 Spring 2008 nr 4](2008.01.30,_Bergensliga_Spring_2008_nr_4.md) | [Andreas Roren](http://ithf.info/stiga/ithf/ranking/player.aspx?id=650862) | 8 |
 | [2008.01.23, Bergensliga
@@ -3068,7 +3068,7 @@ Bergensliga Autumn 2007 nr 18](2007.12.12,_Bergensliga_Autumn_2007_nr_18.md) | [
 | [2007.12.05,
 Bergensliga Autumn 2007 nr 17](2007.12.05,_Bergensliga_Autumn_2007_nr_17.md) | [Stian Ostrem "Power Gym"](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220017) | 8 |
 | [2007.11.28,
-Bergensliga Autumn 2007 nr 16 (manglar)](2007.11.28,_Bergensliga_Autumn_2007_nr_16_(manglar).md) | [Svein Olav Humberset](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220139) | 9 |
+Bergensliga Autumn 2007 nr 16 (manglar)](2007.11.28,_Bergensliga_Autumn_2007_nr_16.md) | [Svein Olav Humberset](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220139) | 9 |
 | [2007.11.21,
 Bergensliga Autumn 2007 nr 15](2007.11.21,_Bergensliga_Autumn_2007_nr_15.md) | [Stian Ostrem "Power Gym"](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220017) | 14 |
 | [2007.11.14,
@@ -3148,7 +3148,7 @@ Spring 2007 nr 6](2007.02.14,_Bergensliga_Spring_2007_nr_6.md) | [Jon Andreas He
 Spring 2007 nr 5](2007.02.07,_Bergensliga_Spring_2007_nr_5.md) | [Jon Andreas Hestad](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220128) | 9 |
 | [2007.01.31, Bergensliga
 Spring 2007 nr 4](2007.01.31,_Bergensliga_Spring_2007_nr_4.md) | [Lars Eirik Aase](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220034) | 7 |
-| [2007.01.27, KM Bergen 2007](../2007.01.27,_KM_Bergen_2007.md) | [Svein Olav Humberset](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220139) | 12 |
+| [2007.01.27, KM Bergen 2007](../KM Bergen/2007.01.27,_KM_Bergen_2007.md) | [Svein Olav Humberset](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220139) | 12 |
 | [2007.01.24, Bergensliga
 Spring 2007 nr 3](2007.01.24,_Bergensliga_Spring_2007_nr_3.md) | [Svein Olav Humberset](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220139) | 9 |
 | [2007.01.17, Bergensliga
@@ -3174,9 +3174,9 @@ Bergensliga Autumn 2006 nr 11](2006.10.25,_Bergensliga_Autumn_2006_nr_11.md) | [
 | [2006.10.18,
 Bergensliga Autumn 2006 nr 10](2006.10.18,_Bergensliga_Autumn_2006_nr_10.md) | [Svein Olav Humberset](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220139) | 7 |
 | [2006.10.11, Bergensliga
-Autumn 2006 nr 9](../2006.10.11,_Bergensliga_Autumn_2006_nr_9.md) | [Stian Ostrem "Power Gym"](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220017) | 14 |
+Autumn 2006 nr 9](2006.10.11,_Bergensliga_Autumn_2006_nr_9.md) | [Stian Ostrem "Power Gym"](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220017) | 14 |
 | [2006.10.04,
-Bergensliga Autumn 2006 nr 8 (manglar)](2006.10.04,_Bergensliga_Autumn_2006_nr_8_(manglar).md) | [Trond Gangsoy](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220094) | 8 |
+Bergensliga Autumn 2006 nr 8 (manglar)](2006.10.04,_Bergensliga_Autumn_2006_nr_8.md) | [Trond Gangsoy](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220094) | 8 |
 | [2006.09.27, Bergensliga
 Autumn 2006 nr 7](2006.09.27,_Bergensliga_Autumn_2006_nr_7.md) | [Stian Ostrem "Power Gym"](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220017) | 8 |
 | [2006.09.20, Bergensliga
@@ -3216,7 +3216,7 @@ Bergensliga Spring 2006 nr 14](2006.04.19,_Bergensliga_Spring_2006_nr_14.md) | [
 | [2006.04.05,
 Bergensliga Spring 2006 nr 13](2006.04.05,_Bergensliga_Spring_2006_nr_13.md) | [Svein Olav Humberset](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220139) | 5 |
 | [2006.03.29,
-Bergensliga Spring 2006 nr 12 (manglar)](2006.03.29,_Bergensliga_Spring_2006_nr_12_(manglar).md) | [Lars Eirik Aase](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220034) | 9 |
+Bergensliga Spring 2006 nr 12 (manglar)](2006.03.29,_Bergensliga_Spring_2006_nr_12.md) | [Lars Eirik Aase](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220034) | 9 |
 | [2006.03.22,
 Bergensliga Spring 2006 nr 11](2006.03.22,_Bergensliga_Spring_2006_nr_11.md) | [Lars Eirik Aase](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220034) | 9 |
 | [2006.03.15,
@@ -3224,12 +3224,12 @@ Bergensliga Spring 2006 nr 10](2006.03.15,_Bergensliga_Spring_2006_nr_10.md) | [
 | [2006.03.08, Bergensliga
 Spring 2006 nr 9](2006.03.08,_Bergensliga_Spring_2006_nr_9.md) | [Trond Gangsoy](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220094) | 9 |
 | [2006.03.01,
-Bergensliga Spring 2006 nr 8 (manglar)](2006.03.01,_Bergensliga_Spring_2006_nr_8_(manglar).md) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 7 |
+Bergensliga Spring 2006 nr 8 (manglar)](2006.03.01,_Bergensliga_Spring_2006_nr_8.md) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 7 |
 | [2006.02.22,
-Bergensliga Spring 2006 nr 7 (manglar)](2006.02.22,_Bergensliga_Spring_2006_nr_7_(manglar).md) | [Jon Andreas Hestad](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220128) | 11 |
-| [2006.02.18, KM Bergen 2006](../2006.02.18,_KM_Bergen_2006.md) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 14 |
+Bergensliga Spring 2006 nr 7 (manglar)](2006.02.22,_Bergensliga_Spring_2006_nr_7.md) | [Jon Andreas Hestad](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220128) | 11 |
+| [2006.02.18, KM Bergen 2006](../KM Bergen/2006.02.18,_KM_Bergen_2006.md) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 14 |
 | [2006.02.15,
-Bergensliga Spring 2006 nr 6 (manglar)](2006.02.15,_Bergensliga_Spring_2006_nr_6_(manglar).md) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 9 |
+Bergensliga Spring 2006 nr 6 (manglar)](2006.02.15,_Bergensliga_Spring_2006_nr_6.md) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 9 |
 | [2006.02.08, Bergensliga
 Spring 2006 nr 5](2006.02.08,_Bergensliga_Spring_2006_nr_5.md) | [Trond Gangsoy](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220094) | 11 |
 | [2006.02.01, Bergensliga
@@ -3255,7 +3255,7 @@ Bergensliga Autumn 2005 nr 12](2005.11.09,_Bergensliga_Autumn_2005_nr_12.md) | [
 | [2005.11.02,
 Bergensliga Autumn 2005 nr 11](2005.11.02,_Bergensliga_Autumn_2005_nr_11.md) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 8 |
 | [2005.10.26,
-Bergensliga Autumn 2005 nr 10 (manglar)](2005.10.26,_Bergensliga_Autumn_2005_nr_10_(manglar).md) | [Lars Eirik Aase](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220034) | 10 |
+Bergensliga Autumn 2005 nr 10 (manglar)](2005.10.26,_Bergensliga_Autumn_2005_nr_10.md) | [Lars Eirik Aase](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220034) | 10 |
 | [2005.10.19, Bergensliga
 Autumn 2005 nr 9](2005.10.19,_Bergensliga_Autumn_2005_nr_9.md) | [Jon Andreas Hestad](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220128) | 7 |
 | [2005.10.12, Bergensliga
@@ -3315,7 +3315,7 @@ Bergensliga Spring 2005 nr 13](2005.04.06,_Bergensliga_Spring_2005_nr_13.md) | [
 Bergensliga Spring 2005 nr 12](2005.03.30,_Bergensliga_Spring_2005_nr_12.md) | [Bjorn Hagerup Roken](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220104) | 11 |
 | [2005.03.17,
 Bergensliga Spring 2005 nr 11](2005.03.17,_Bergensliga_Spring_2005_nr_11.md) | [Ewoud van Veen](http://ithf.info/stiga/ithf/ranking/player.aspx?id=210001) | 12 |
-| [2005.03.12, KM Bergen 2005](../2005.03.12,_KM_Bergen_2005.md) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 19 |
+| [2005.03.12, KM Bergen 2005](../KM Bergen/2005.03.12,_KM_Bergen_2005.md) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 19 |
 | [2005.03.09,
 Bergensliga Spring 2005 nr 10](2005.03.09,_Bergensliga_Spring_2005_nr_10.md) | [Trond Selseng](http://ithf.info/stiga/ithf/ranking/player.aspx?id=220243) | 14 |
 | [2005.03.02, Bergensliga
@@ -3466,7 +3466,7 @@ bordhockeyspelarar på landslagsnivå.
 |----|----|----|
 | Dato, Runde | Vinnar | Deltakarar |
 | [2000.03.18 Bergen
-Championships 2000 Students](../2000.03.18_Bergen_Championships_2000_Students.md) | [Martin Gilhuus](http://ithf.info/stiga/ithf/ranking/player.aspx?id=660043)\] | 55 |
+Championships 2000 Students](../Bergen Championships/2000.03.18_Bergen_Championships_2000_Students.md) | [Martin Gilhuus](http://ithf.info/stiga/ithf/ranking/player.aspx?id=660043)\] | 55 |
 
 2000
 

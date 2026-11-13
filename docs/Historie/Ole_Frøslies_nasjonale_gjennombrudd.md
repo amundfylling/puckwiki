@@ -16,7 +16,7 @@ comeback-vår \> i TBHK, hvor man måtte fly inn spillere fra England for
 
 Ole svarer: Forbredelsene til turneringen var meget bra. Tippekamp og en
 par timer sparring med Pål og et par herrer fra den kjente bordhockey-
-klubben Terra Spiff. [thumb|250px|](Fil:prg_p_of.jpg.md)
+klubben Terra Spiff. 
 
 Grunnspillet var ikke spesielt imponerende fra min side, nr. 7 og såvidt
 videre. Det førte til at jeg bestemte meg for å skjerpe voldsomt på

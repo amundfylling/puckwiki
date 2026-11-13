@@ -55,7 +55,7 @@ under kortsiden på brettene, dvs. maks 80 cm.
 
 ### Eksempel på velegnet bord
 
-[Fil:tuerning_bord_eksempel.jpg](Fil:tuerning_bord_eksempel.jpg.md)
+*Fil:tuerning_bord_eksempel.jpg*
 
 Konferanse-/kantinebord fra Ojega.
 

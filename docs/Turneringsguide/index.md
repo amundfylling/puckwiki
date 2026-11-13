@@ -13,10 +13,10 @@ av ymse slag som danner normen for våre turneringer. Forhåpentligvis vil
 denne guiden kunne fungere som en konstruktiv hjelper for arrangører
 rundt omkring i landet.
 
-- [Generelle retningslinjer](turneringsguide.retningslinjer.md)
+- [Generelle retningslinjer](Turneringsguide:_Generelle_rettningslinjer.md)
 - [
-  Prepping](turneringsguide.prepping.md)
-- [Turneringsformer](Turneringsguide:_turneringsformer.md)
+  Prepping](Turneringsguide:_Prepping.md)
+- [Turneringsformer](Turneringsguide:_Turneringsformer.md)
 - [Resultatprogram](Turneringsguide:_Resultatprogram.md)
 - [
   Kantine](Turneringsguide:_Kantine.md)
