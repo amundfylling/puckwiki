@@ -1,4 +1,4 @@
-[350px|thumb|](Fil:lag_fin1.jpg.md) Totalt 13 lag deltok i Lag-NM
+ Totalt 13 lag deltok i Lag-NM
 2001.
 
 Finalen stod mellom Trondheim BHKs førstelag (Yngve Aasheim, Pål Bakken

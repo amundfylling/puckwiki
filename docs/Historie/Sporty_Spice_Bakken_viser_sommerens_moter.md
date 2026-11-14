@@ -1,6 +1,6 @@
 Av Espen Selbæk
 
-[thumb|250px](Fil:s_s_p_b_.jpg.md) TBHKs Pål Bakken er det ikke helt
+![](../images/S_s_p_b_.jpg) TBHKs Pål Bakken er det ikke helt
 greit å bli klok på. Han er kjent for sin nærmest obskure interesse for
 Terje Tysland. Det er bare det at denne interessen skjærer så
 fundamentalt med all annen musikk han liker, så ingen av hans venner kan

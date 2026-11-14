@@ -1,6 +1,6 @@
 Av Espen Selbæk
 
-[thumb|300px|right|](Fil:reiersen.jpg.md) Denne gangen skal
+ Denne gangen skal
 TBHKs brasilianske bordhockeyskole handle om \<\<Reiersen\>\>, en av
 bordhockeyens virkelige lekkerbiskener. Trikset er oppkalt etter Øyvind
 Reiersen, en pensjonert spiller fra Byåsen-området i Trondheim. Øyvind
@@ -25,10 +25,7 @@ skutt. Skulle mot formodning motstanderens høyre back være korrekt stilt
 i forsvarsposisjon, må man legge inn et løft i pucken (noe som uansett
 kan være en fordel).
 
-[thumb|right|300px|Øyvind
-Reiersen (sirkelen) avbildet på TBHKs lagbilde fra NM 1995. Øvrige
-spillere: bak fra v: Kenneth Eriksen, Bård Bakken, Reiersen, NN, Kjell O
-Hansen. Foran fra v: Espen Selbæk, Pål Bakken og Jon A Drøpping.](Fil:r_p_l_nm.jpg.md)
+*Øyvind Reiersen (sirkelen) avbildet på TBHKs lagbilde fra NM 1995. Øvrige spillere: bak fra v: Kenneth Eriksen, Bård Bakken, Reiersen, NN, Kjell O Hansen. Foran fra v: Espen Selbæk, Pål Bakken og Jon A Drøpping.*
 \<\<Reiersen\>\> er et svært sjeldent triks å se i turnerings-
 sammenheng. Såvidt vi i TBHK vet, så er TBHKs egen Pål Bakken den siste
 som har scoret på \<\<Reiersen\>\> i NBA- sammenheng, i grunnspillkamp

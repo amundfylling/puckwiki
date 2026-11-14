@@ -223,11 +223,11 @@ begge sider av keeper, så vil de fleste få store problemer. Med tanke på
 hvor fersk Bjørge er i denne sammenhengen , så er det ingen tvil om at
 vi her har med et talent å gjøre.
 
-[thumb|left|400px|Trondheim
-Open 2000, her fra B-mellomspillet](Fil:trh00ml2.jpg.md)
-[thumb|right|400px|Flott
-innsats av sekreteriatet. Videokanon viste kontinuerlig oppdatert
-tabellstatus.](Fil:trh00sek.jpg.md)
+*Trondheim Open 2000, her fra B-mellomspillet*
+![Flott innsats av sekreteriatet. Videokanon viste kontinuerlig oppdatert tabellstatus.](../../images/Trh00sek.jpg)
+*Flott innsats av sekreteriatet. Videokanon viste kontinuerlig oppdatert tabellstatus.*
+
+
 
 ## Kvalik-matchen
 
@@ -238,11 +238,10 @@ av at Kristensen var et strå vassere. Han går opp i ledelsen 2-0 etter
 et enkelt høyreving-skudd og en høyre-skyffel. Brattbakk reduserer sent
 i kampen, men det er for sent.
 
-[thumb|left|400px|Kvalifiseringsmatchen
-om siste plass i A-mellomspillet ble et internt klubboppgjør mellom
-Andreas Kristensen og Harald Brattbakk, begge Trondheim Bordhockeyklubb.
-](Fil:trh00kva.jpg.md) [thumb|right|300px|Andreas
-Kristensen trakk det lengste strået i kvalifiseringsmatchen til A.](Fil:trh00akr.jpg.md)
+![Kvalifiseringsmatchen om siste plass i A-mellomspillet ble et internt klubboppgjør mellom Andreas Kristensen og Harald Brattbakk, begge Trondheim Bordhockeyklubb.](../../images/Trh00kva.jpg)
+*Kvalifiseringsmatchen om siste plass i A-mellomspillet ble et internt klubboppgjør mellom Andreas Kristensen og Harald Brattbakk, begge Trondheim Bordhockeyklubb.*
+
+ *Andreas Kristensen trakk det lengste strået i kvalifiseringsmatchen til A.*
 
 ## B-mellomspillet
 
@@ -290,12 +289,10 @@ title="thumb|left|400px|A-mellomspill. Brett 1: Julusmoen, Jæren BHL vs Kristen
 Brett 1: Julusmoen, Jæren BHL vs Kristensen, Trondheim BHK<br />
 Brett nr 2: Brovold, A2FPK vs Ulvær, Trondheim BHK<br />
 Brett nr 3: Lie, Sankthanshaugen Blues vs. Sliper, Trondheim BHK</a>
-[thumb|right|300px|Er
-stortalentet Trond Selseng fra Trondheim BHK like ved sitt store
-gjennombrudd? Til A-mellomspill, tok der skalper som Tore Lie, men
-mangel på rutine ga tilslutt 12-plass. Læringskurven er eksponentiell.
-Sammen med Trond Bjørge, Trondheim BHK er han for tiden Norges desidert
-mest spennende talent. En klar kandidat til årets NBA rookie-tittel.](Fil:trh00tse.jpg.md)
+![Er stortalentet Trond Selseng fra Trondheim BHK like ved sitt store gjennombrudd? Til A-mellomspill, tok der skalper som Tore Lie, men mangel på rutine ga tilslutt 12-plass. Læringskurven er eksponentiell. Sammen med Trond Bjørge, Trondheim BHK er han for tiden Norges desidert mest spennende talent. En klar kandidat til årets NBA rookie-tittel.](../../images/Trh00tse.jpg)
+*Er stortalentet Trond Selseng fra Trondheim BHK like ved sitt store gjennombrudd? Til A-mellomspill, tok der skalper som Tore Lie, men mangel på rutine ga tilslutt 12-plass. Læringskurven er eksponentiell. Sammen med Trond Bjørge, Trondheim BHK er han for tiden Norges desidert mest spennende talent. En klar kandidat til årets NBA rookie-tittel.*
+
+
 
 ## Kvartfinaler
 

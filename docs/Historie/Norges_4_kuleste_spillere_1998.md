@@ -10,7 +10,7 @@ august/september.
 
 1.  **Pål Bakken, TBHK**
       
-    [thumb|250px|Hva er skilpadde?](Fil:p_p_vors.jpg.md)
+    *Hva er skilpadde?*
 
     Man kunne trukket frem flere begrunnelser for at Pål skal være med
     på denne lista. Blant disse rager nok hans deltagelse i Jeopardy
@@ -46,9 +46,9 @@ august/september.
     på hva som foregår...) Even en sterkt oppadgående spiller, som
     forøvrig har Ipswich som favorittlag i engelsk fotball.
 
-    [thumb|200px|left](Fil:e_m_port.jpg.md)
+    ![](../images/E_m_port.jpg)
 
-    [thumb|200px|right](Fil:e_m_haar.jpg.md)
+    ![](../images/E_m_haar.jpg)
 4.  **OJ Thorsen, Langhus**
 
 OJ er en spiller som er veeeldig rolig, spiller veeeldig sakte og

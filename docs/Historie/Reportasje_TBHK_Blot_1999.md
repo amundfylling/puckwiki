@@ -2,14 +2,14 @@ TBHKs Store Blot lørdag 20. februar 1999
 
 Tekst: Øyvind Eggen Foto: Espen Selbæk
 
-[thumb|left|350px|Ole
-Alzenheimer Frøslie demonstrerer karskkopp-føring på høyt nivå. Legg
-særlig merke til senile smilet, det misbrukeraktige blikket, og
-svettedråpene som pipler frem fra pannen. Ren ondskap! Og.... kom ikke
-her å si at Ole ikke er trønder! Værdaln. Mer er det ikke å si om den
-saken. På forhånd en av de store favorittene.](Fil:alzenhei.jpg.md)
-[thumb|200px|right|Maskulint
-stilleben: Dolk, fjøl, fenalår, pils og gin.](Fil:stillebe.jpg.md) En stolt tradisjon i
+![Ole Alzenheimer Frøslie demonstrerer karskkopp-føring på høyt nivå. Legg særlig merke til senile smilet, det misbrukeraktige blikket, og svettedråpene som pipler frem fra pannen. Ren ondskap! Og.... kom ikke her å si at Ole ikke er trønder! Værdaln. Mer er det ikke å si om den saken. På forhånd en av de store favorittene.](../images/Alzenhei.jpg)
+*Ole Alzenheimer Frøslie demonstrerer karskkopp-føring på høyt nivå. Legg særlig merke til senile smilet, det misbrukeraktige blikket, og svettedråpene som pipler frem fra pannen. Ren ondskap! Og.... kom ikke her å si at Ole ikke er trønder! Værdaln. Mer er det ikke å si om den saken. På forhånd en av de store favorittene.*
+
+
+![Maskulint stilleben: Dolk, fjøl, fenalår, pils og gin.](../images/Stillebe.jpg)
+*Maskulint stilleben: Dolk, fjøl, fenalår, pils og gin.*
+
+ En stolt tradisjon i
 TBHKs kulturarv er blotet for veteranene - de som var med i første
 halvdel av 90-åra og startet det hele. Som i fjor skulle blotet avholdes
 hjemme hos Jon Anders Drøpping. Og veteranene kom reisende inn til
@@ -26,11 +26,8 @@ hadde derfor ingen soleklare forhåndsfavoritter.\
 Den lokale kjøtt-pusheren på hjørnet stilte som vanlig opp med spekemat.
 Etter behørig traktering ved langbordet ble puljespillet trukket... og
 alt lå klart for oppstart av den etter hvert litt beduggede
-turneringen... [thumb|200px|left|&lt;&lt;Åååå
-ungdomstid, du slette tid&gt;&gt; (fritt etter Terje Tysland) Brett,
-lyskaster, høy musikk, god drikke.](Fil:underv_1.jpg.md)
-[thumb|200px|right|Marius
-Torsvik og Sturla E Hovdal i dyp konsentrasjon.](Fil:mar_stu.jpg.md)\
+turneringen... *&lt;&lt;Åååå ungdomstid, du slette tid&gt;&gt; (fritt etter Terje Tysland) Brett, lyskaster, høy musikk, god drikke.*
+*Marius Torsvik og Sturla E Hovdal i dyp konsentrasjon.*\
 \
 \
 \
@@ -85,11 +82,8 @@ på hodet og se at det ikke var noen store overraskelser i innledende
 runder. Med Bertils rop til Pål og Bård om å føre slektas ære videre,
 var det klart for kvartfinaler:
 
-[thumb|left|Under
-vellystige kamprop påkalles hjelp fra de høyere makter. Fra venstre:
-Sturla Enge Hovdal, Reidar Sliper og Øyvind Eggen.](Fil:natas.jpg.md)
-[thumb|right|Noen
-tok det periodevis litt roligere...](Fil:gammon.jpg.md)
+*Under vellystige kamprop påkalles hjelp fra de høyere makter. Fra venstre: Sturla Enge Hovdal, Reidar Sliper og Øyvind Eggen.*
+*Noen tok det periodevis litt roligere...*
 
 **Kvartfinaler:**\
 Sigbjørn-Sturla 7-1, 8-1\
@@ -108,12 +102,14 @@ enn puck etterhvert som kvelden skred fram. Det var nå opp til Bård
 Bakken å ta vare på Knudsens-klanens ære. Sigbjørn gikk programmessig
 videre.
 
-[thumb|right|No
-need to say: Jon Anders var usedvanlig fornøyd med å slå ut en lettere
-oppgitt Pål Bakken... Til venstre i bildet ser vi Arne, ganske så trøtt
-etter å komme rett fra USA-flyet...](Fil:joa_paal.jpg.md)
-[thumb|right|Sturla
-Enge Hovdal smiler til svigermor.](Fil:uffsturl.jpg.md)
+![No need to say: Jon Anders var usedvanlig fornøyd med å slå ut en lettere oppgitt Pål Bakken... Til venstre i bildet ser vi Arne, ganske så trøtt etter å komme rett fra USA-flyet...](../images/Joa_paal.jpg)
+*No need to say: Jon Anders var usedvanlig fornøyd med å slå ut en lettere oppgitt Pål Bakken... Til venstre i bildet ser vi Arne, ganske så trøtt etter å komme rett fra USA-flyet...*
+
+
+![Sturla Enge Hovdal smiler til svigermor.](../images/Uffsturl.jpg)
+*Sturla Enge Hovdal smiler til svigermor.*
+
+
 
 **Semifinaler:**\
 Sigbjørn - Jon Anders 1-3, 4-3, 4-3 (sd)\
@@ -143,10 +139,5 @@ presise høyreskyffler var hovedforskjellen på de to spillerne.
 Etter finalespillet ble natta lang, det kom enda mer etnisk drikke på
 bordet, og man diskuterte og mimret til sola gikk opp og hanen galte.
 
-[thumb|left|Og
-så ble det klart: Sigbjørn Strømsnes er vinner av TBHKs veteranblot
-1999. Til venstre Pål Bakken, til høyre Terje Lynnebakken, som begge
-applauderer i seierens øyeblikk.](Fil:finalen.jpg.md)
-[thumb|right|Oi
-oi oi... hva skjuler det seg i de koppene? Ganske så etnisk vil jeg
-tro.](Fil:karsk.jpg.md)
+*Og så ble det klart: Sigbjørn Strømsnes er vinner av TBHKs veteranblot 1999. Til venstre Pål Bakken, til høyre Terje Lynnebakken, som begge applauderer i seierens øyeblikk.*
+*Oi oi oi... hva skjuler det seg i de koppene? Ganske så etnisk vil jeg tro.*

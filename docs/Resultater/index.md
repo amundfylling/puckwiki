@@ -2,10 +2,10 @@
 
 På denne sida finner du eit arkiv over bordhockeyresultat frå diverse
 turneringsseriar kringom i landet. Blad deg tilbake til 2004 og
-gjenoppleg [Bjørn Hagerup Røken](Bjørn_Hagerup_Røken.md) sine herjingar mot
+gjenoppleg Bjørn Hagerup Røken sine herjingar mot
 ferske bergensligaspelarar, eller sjå svart på kvitt at
-[Trond Ove Gangsøy](Trond_Ove_Gangsøy.md) slo
-[Jon Andreas Hestad](Jon_Andreas_Hestad.md) 1-0 på sudden i
+Trond Ove Gangsøy slo
+Jon Andreas Hestad 1-0 på sudden i
 sjuande kamp i åttandelsfinalen under Trondheim Open 12.11.2005.
 
 ### Internasjonale og nasjonale turneringar
@@ -39,4 +39,4 @@ sjuande kamp i åttandelsfinalen under Trondheim Open 12.11.2005.
 [Minde Muthapuckers Training
 League](Minde Muthapuckers Training League/Minde_Muthapuckers_Training_League.md)
 
-[Diverse](Diverse.md)
+[Diverse](Andre/index.md)

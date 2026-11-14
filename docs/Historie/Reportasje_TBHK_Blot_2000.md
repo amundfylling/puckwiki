@@ -1,4 +1,4 @@
-[thumb|right|](Fil:bl00olef.jpg.md) Av Pål Bakken, IL Sverre og Espen
+![](../images/Bl00olef.jpg) Av Pål Bakken, IL Sverre og Espen
 Selbæk, bilder og layout
 
 Nok et vinterblot ble avholdt i Trondheimsveien lørdag 8. april. Kvelden
@@ -36,10 +36,10 @@ konjakk og sigarer til vertens spesialimporterte kaffe. Gode og mette
 satt alle på slutten av måltidet og hørte Espen deklamere kjenslevare
 dikt av Daniel Wallén.
 
-[thumb|left|Mye
-digg å velge i på matbordet denne gangen... her begynte det å bli
-utplukket.](Fil:bl00mat1.jpg.md) [thumb|right|Kveldens
-konfransier Pål Bakken (IL Sverre), her avbildet med Sigar og Pokal.](Fil:bl00pal1.jpg.md)
+*Mye digg å velge i på matbordet denne gangen... her begynte det å bli utplukket.* ![Kveldens konfransier Pål Bakken (IL Sverre), her avbildet med Sigar og Pokal.](../images/Bl00pal1.jpg)
+*Kveldens konfransier Pål Bakken (IL Sverre), her avbildet med Sigar og Pokal.*
+
+
 Etter alt fjaset (dvs andre aktiviteter enn bh), ble brettene rigget opp
 og trekkepokalen tatt i bruk. Høyt rankede (NBA) Reidar var kveldens
 store skuffelse; med delt sisteplass med bordhockeylegende Øyvind Eggen.
@@ -65,10 +65,11 @@ gikk på om centre-half er ensbetydende med midtbane eller midtforsvar.
 Etter å ha ringt diverse fotballfolk og prøvd å få tak i Jan selv, skar
 dommer gjennom; centre-half ble underkjent. Til orientering: Jan
 Christiansen lever i dag i beste velgående i Enebakk!\
-[thumb|left|Som
-vanlig når TBHKs storheter møtes: stor spilleglede!](Fil:bl00akti.jpg.md)
-[thumb|right|Som
-vanlig når TBHKs storheter møtes: generell fyllerør!](Fil:bl00ror1.jpg.md)\
+![Som vanlig når TBHKs storheter møtes: stor spilleglede!](../images/Bl00akti.jpg)
+*Som vanlig når TBHKs storheter møtes: stor spilleglede!*
+
+
+*Som vanlig når TBHKs storheter møtes: generell fyllerør!*\
 \
 \
 \
@@ -86,13 +87,7 @@ vanlig når TBHKs storheter møtes: generell fyllerør!](Fil:bl00ror1.jpg.md)\
 04. Bertil Rognes 2 - 0 - 3 7 - 13 4\
 05. Terje Lynnebakken 1 - 1 - 3 8 - 11 3\
 06. Reidar Sliper 0 - 2 - 3 6 - 11 2\
-[thumb|right|Vinnerlaget
-avbildet i fylkeskommunal gledesrus med kveldens premie: Bache
-Gabrielsen XO (fv. Øyvind Eggen, Jon Anders Drøpping, Bertil Rognes og
-Ole Frøslie).](Fil:bl00vinn.jpg.md) [thumb|right|Mye
-legendari samlet på ett bord: fv. Arne Moe, Terje Lynnebakken, Yngve
-Aasheim, Reidar Sliper, samt tomålsscorer Øyvind Eggen (ett denne gang,
-ett fra før!)](Fil:bl00bord.jpg.md)
+*Vinnerlaget avbildet i fylkeskommunal gledesrus med kveldens premie: Bache Gabrielsen XO (fv. Øyvind Eggen, Jon Anders Drøpping, Bertil Rognes og Ole Frøslie).* *Mye legendari samlet på ett bord: fv. Arne Moe, Terje Lynnebakken, Yngve Aasheim, Reidar Sliper, samt tomålsscorer Øyvind Eggen (ett denne gang, ett fra før!)*
 
 **Pulje Bragstad**\
 01. Espen Selbæk 5 - 0 - 0 29 - 3 10\

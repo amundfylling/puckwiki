@@ -1,5 +1,4 @@
-[thumb|250px|Legenden Øyvind
-Eggen](Fil:o_egg_po2.jpg.md)
+*Legenden Øyvind Eggen*
 
 Forord av Espen Selbæk
 

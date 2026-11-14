@@ -55,7 +55,7 @@ under kortsiden på brettene, dvs. maks 80 cm.
 
 ### Eksempel på velegnet bord
 
-[Fil:tuerning_bord_eksempel.jpg](Fil:tuerning_bord_eksempel.jpg.md)
+*Fil:tuerning_bord_eksempel.jpg*
 
 Konferanse-/kantinebord fra Ojega.
 
@@ -144,5 +144,5 @@ bordhockeyturnering!
 
 Overskudd fra turneringer er NBAs viktigste inntektskilde. For gode råd
 om økonomistyring ved arrangering av turneringer, se
-[Økonomi i
-NBA](Økonomi_i_NBA.md).
+Økonomi i
+NBA.

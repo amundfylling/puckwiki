@@ -5,7 +5,7 @@ Oppdatert 2019-03-31 (oppdateringer i
 
   
 De internasjonale [spillereglene](http://ithf.info/stiga/ithf/rules.asp)
-([norsk oversettelse](Internasjonale_spilleregler_for_bordhockey.md)) og
+([norsk oversettelse](../Lover og regler/Internasjonale_spilleregler_for_bordhockey.md)) og
 [turneringsreglene](http://ithf.info/stiga/ithf/docs/TournamentRUles.htm)
 definert av det Internasjonale Bordhockeyforbundet (ITHF) adopteres av
 NBA. Turneringsreglene gjelder der dette er relevant.

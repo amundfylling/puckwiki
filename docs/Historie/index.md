@@ -18,9 +18,9 @@ Sentrifuga 2](I_Sentrifuga_2.md)\
 [Loppeopprøret](Loppeopprøret.md)\
 [Månedens dobbeltgjenger på
 TBHK Web](Månedens_dobbeltgjenger_på_TBHK_Web.md)\
-[NM 2002](NM_2002.md)\
+[NM 2002](../Resultater/Andre/NM_2002.md)\
 [NM lag
-2001](NM_lag_2001.md)\
+2001](../Resultater/Andre/NM_lag_2001.md)\
 [Norges 4 kuleste spillere
 1998](Norges_4_kuleste_spillere_1998.md)\
 [Ole Frøslies nasjonale
@@ -34,11 +34,11 @@ gjennombrudd](Ole_Frøslies_nasjonale_gjennombrudd.md)\
 viser sommerens moter](Sporty_Spice_Bakken_viser_sommerens_moter.md)\
 [Sveklingenes hevn over
 ruslebiffene](Sveklingenes_hevn_over_ruslebiffene.md)\
-[Svensk Mesterskap 1996](Svensk_Mesterskap_1996.md)\
-[Svensk Mesterskap 2001](Svensk_Mesterskap_2001.md)\
+[Svensk Mesterskap 1996](../Resultater/Andre/Svensk_Mesterskap_1996.md)\
+[Svensk Mesterskap 2001](../Resultater/Andre/Svensk_Mesterskap_2001.md)\
 [TBHKs
 bordhockeyskole-Reiersen](TBHKs_bordhockeyskole-Reiersen.md)\
-[Terra Spiffs NBA debut](Terra_Spiffs_NBA_debut.md)\
-[Trondheim Open 2002](Trondheim_Open_2002.md)\
+[Terra Spiffs NBA debut](../Resultater/Andre/Terra_Spiffs_NBA_debut.md)\
+[Trondheim Open 2002](../Resultater/Trondheim Open/Trondheim_Open_2002.md)\
 [Øyvind Eggens aller første
 mål](Øyvind_Eggens_aller_første_mål.md)\

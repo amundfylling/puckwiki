@@ -1,4 +1,4 @@
-[thumb|500px|](Fil:paalsky2.jpg.md) Legendarien rundt Trondheim BHKs
+![](../images/Paalsky2.jpg) Legendarien rundt Trondheim BHKs
 Pål Bakken vil ingen ende ta. Etter eget sigende brukte han 10 år på å
 få noe som på gode dager til forveksling kan ligne et treff. Når han i
 tillegg har A-mellomspillets beste forsvar i NM, så må det bare bli bra.

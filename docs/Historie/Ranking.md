@@ -1,4 +1,4 @@
-[Mesterskapskvalifisering](Mesterskapskvalifisering.md)
+[Mesterskapskvalifisering](../Resultater/Mesterskapskvalifisering.md)
 
 [Verdensranking](http://stiga.trefik.cz/ithf/ranking/ranking.aspx)
 

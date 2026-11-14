@@ -14,8 +14,10 @@ Mesterskap. I tillegg får du se og lese litt fra turneringen i 1996...\
 \
 \
 \
-[thumb|right|400px|Å
-kjenne duften av 100 nye og blankpolerte spill tidlig om morgenen...](Fil:sm96for1.jpg.md)
+![Å kjenne duften av 100 nye og blankpolerte spill tidlig om morgenen...](../../images/Sm96for1.jpg)
+*Å kjenne duften av 100 nye og blankpolerte spill tidlig om morgenen...*
+
+
 
 Hvorfor deltar så mange i SM? Her det litt som i Norge, for til NM
 kommer det bøttevis med spillere som har lagt opp og vanligvis ikke
@@ -40,8 +42,7 @@ nasjon!\
 \
 \
 \
-[thumb|right|400px|Ikke
-helt enkelt å håve inn fra dette premiebordet...](Fil:sm96pre1.jpg.md)
+*Ikke helt enkelt å håve inn fra dette premiebordet...*
 
 Men fortvil ikke, det er også mange grunner til å være med for de som
 ikke spiller i elitesjiktet! Her møter man spillere fra alle nivå, fra
@@ -52,8 +53,10 @@ legger seg like tidlig...\
 \
 \
 \
-[thumb|right|400px|Galskapen
-er i gang! 176 spillere fra 6 nasjoner...](Fil:sm96und1.jpg.md)
+![Galskapen er i gang! 176 spillere fra 6 nasjoner...](../../images/Sm96und1.jpg)
+*Galskapen er i gang! 176 spillere fra 6 nasjoner...*
+
+
 
 Hvordan turneringen spilles? Vel, i 1996 deltok 176 spillere. I
 grunnspillet ble disse fordelt på 8 puljer med 22 spillere i hver. Alle
@@ -80,11 +83,7 @@ mesterskapshelga.\
 \
 \
 \
-[thumb|right|400px|GForventningsfulle
-norske håp foran SM'96... (Skeppsholmen, Stockholm): Fra venstre: Roy
-Persen (OBHK), Terje Julusmoen (ex OBHK), Marius Smaaberg (OBHK), Tore
-Lie (LBHT). Ikke tilstede: Ulf Grefsgaard (OBHK) og Espen Selbæk
-(TBHK).](Fil:sm96norg.jpg.md)
+*GForventningsfulle norske håp foran SM'96... (Skeppsholmen, Stockholm): Fra venstre: Roy Persen (OBHK), Terje Julusmoen (ex OBHK), Marius Smaaberg (OBHK), Tore Lie (LBHT). Ikke tilstede: Ulf Grefsgaard (OBHK) og Espen Selbæk (TBHK).*
 
 Med seier i Rookie-mesterskapet plasserte Terje Julusmoen seg på en
 hederlig, men samtidig også en litt skuffende 65. plass. Men bøtte og

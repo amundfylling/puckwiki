@@ -77,5 +77,5 @@ Sumarliga 2005 nr 3](2005.06.08,_Bergen_Sumarliga_2005_nr_3.md)
 [2005.06.01, Bergen
 Sumarliga 2005 nr 2](2005.06.01,_Bergen_Sumarliga_2005_nr_2.md)
 
-[2005.05.25, Bergen
-Sumarliga 2005 nr 1](2005.05.25,_Bergen_Sumarliga_2005_nr_1.md)
+2005.05.25, Bergen
+Sumarliga 2005 nr 1
